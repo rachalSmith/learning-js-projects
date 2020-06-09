@@ -1,3 +1,3 @@
 # learning-js-projects
-small projects made while learning js fundamentals
+Small projects made while learning js fundamentals with codecademy.
 Naming convention: subjectForContext-topic.js
